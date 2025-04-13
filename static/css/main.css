@@ -394,9 +394,9 @@ ul {
     left: 870px;
   }
 }
-@media (max-width: 370px) {
+@media (max-width: 420px) {
   .page__wrapper {
-    max-width: 370px;
+    max-width: 420px;
     min-width: 321px;
   }
   .page__wrapper .mobile-menu {
